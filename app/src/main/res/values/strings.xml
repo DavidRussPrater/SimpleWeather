@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">WeatherMoji</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!-- Placeholder Strings -->
+    <string name="date">February 20th, 2018</string>
+    <string name="current_temperature">50</string>
+    <string name="high_temperature">Hi 100</string>
+    <string name="low_temperature">Lo 0</string>
+    <string name="precipitation">Precipitation 20%</string>
+    <string name="current_forecast">Partly Cloudy</string>
+    <string name="dawn_title">Dawn</string>
+    <string name="sunrise_title">Sunrise</string>
+    <string name="solar_noon_title">Solar Noon</string>
+    <string name="dusk_title">Dusk</string>
+    <string name="sunset_title">Sunset</string>
+    <string name="dawn_time">7:00 AM</string>
+    <string name="sunrise_time">7:00 PM</string>
+    <string name="solar_noon_time">12:00 PM</string>
+    <string name="dusk_time">6:00 PM</string>
+    <string name="sunset_time">7:00 PM</string>
+    <string name="current_time">9;38 AM</string>
+
+    <!-- Tomorrows Placeholder Strings -->
+    <string name="tomorrows_date">February 21st, 2018</string>
+    <string name="tomorrows_current_temperature">40</string>
+    <string name="tomorrows_high_temperature">Hi 75</string>
+    <string name="tomorrows_low_temperature">Lo 12</string>
+    <string name="tomorrows_precipitation">Precipitation 80%</string>
+    <string name="tomorrows_current_forecast">Sunny</string>
+    <string name="tomorrows_dawn_time">6:10 PM</string>
+    <string name="tomorrows_sunrise_time">7:10 PM</string>
+    <string name="tomorrows_solar_noon_time">12:10 PM</string>
+    <string name="tomorrows_dusk_time">6:10 PM</string>
+    <string name="tomorrows_sunset_time">7:10 PM</string>
+
+    <!-- Tab Titles -->
+
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="ten_day">10 Day</string>
+    <string name="map">Map</string>
+
+</resources>
